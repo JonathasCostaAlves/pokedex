@@ -74,7 +74,7 @@ Projeto finalizado e compossibilidade de novas implementações e melhorias.
  
 - [x] Busca de Pokemons da api Pública 
  
-- [x] Atualização de tela com novo poquemons 
+- [x] Atualização de tela com novo Pokemons
 
 - [x] Abertura de card com detalhes 
  
