@@ -1,10 +1,11 @@
 .containerPokemon {
     margin-bottom: 50px;
     position: absolute;
+    max-height: 98vh;
     top: 50px;
     bottom: auto;
-    left: 20%;
-    right: 20%;
+    left: 8%;
+    right: 8%;
     text-align: center;
 }
 

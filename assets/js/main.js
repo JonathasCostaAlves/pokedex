@@ -20,7 +20,7 @@ function getLiCards() {
 
 
 const maxRecords = 151
-const limit = 50
+const limit = 6
 let offset = 0
 
 
